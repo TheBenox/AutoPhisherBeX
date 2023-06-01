@@ -26,3 +26,32 @@ Una vez completada la clonación, el script abre el sitio web clonado en el nave
 
 Nota importante: Este script se proporciona con fines educativos y de aprendizaje solamente. El uso indebido o no autorizado de este script para clonar sitios web sin el permiso del propietario del sitio web es ilegal. El autor [BenoX] no se hace responsable de ningún mal uso o daño causado por el uso de este script.
 
+MANUAL DE INSTALACION: 
+
+#########################
+Instalación en Linux:
+#########################
+Abre una terminal en tu sistema Linux.
+
+Clona el repositorio de AutoPhisherBeX ejecutando el siguiente comando:
+git clone https://github.com/TheBenox/AutoPhisherBeX.git
+
+Accede al directorio del proyecto:
+cd AutoPhisherBeX
+
+Ejecuta el Script: 
+python autophisherbex.py
+
+#########################
+Instalación en Windows:
+#########################
+Descarga el repositorio de AutoPhisherBeX desde el siguiente enlace: https://github.com/TheBenox/AutoPhisherBeX/archive/refs/heads/main.zip
+Extrae el archivo ZIP descargado en una ubicación deseada en tu sistema.
+
+Abre una ventana de comandos (CMD) en Windows.
+Navega hasta la ubicación donde extrajiste el archivo ZIP de AutoPhisherBeX utilizando el comando cd. Por ejemplo:
+
+cd C:\ruta\hasta\AutoPhisherBeX-main
+
+Ejecuta el Script: 
+python autophisherbex.py
